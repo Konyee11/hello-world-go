@@ -13,7 +13,5 @@ cd hello-world-go/
 # Author
 
 - 作成者 Konyee11
-- こちらのサイトを参考にしました。
+- こちらのサイトを参考にしました ->
   https://dev.classmethod.jp/articles/go-setup-and-sample/#toc-14
-
-# Contribute
