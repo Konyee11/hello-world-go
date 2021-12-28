@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-   fmt.Println(subpkg.Hello())
-   fmt.Println(subpkg.Golang())
-   fmt.Println(Goodbye())
+	fmt.Println(subpkg.Hello())
+	fmt.Println(subpkg.Golang())
+	fmt.Println(Goodbye())
 }
