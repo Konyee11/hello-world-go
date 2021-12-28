@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/Konyee11/hello-world/subpkg"
+	"github.com/Konyee11/hello-world-go/subpkg"
 )
 
 func main() {
